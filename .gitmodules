@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lpdensity"]
 	path = lpdensity
 	url = https://github.com/cran/lpdensity
-	shallow = true
-	registered = true
 [submodule "ramchoice"]
 	path = ramchoice
 	url = https://github.com/cran/ramchoice
-	shallow = true
-	registered = true
 [submodule "rddensity"]
 	path = rddensity
 	url = https://github.com/cran/rddensity
-	shallow = true
-	registered = true
